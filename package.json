@@ -27,5 +27,6 @@
     "run-sequence": "^1.2.1",
     "uglifyjs": "^2.4.10",
     "typescript": "^2.8.3"
-  }
+  },
+  "types": "yubinbango-core.d.ts"
 }
